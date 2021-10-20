@@ -2,8 +2,8 @@ import AWS from "aws-sdk";
 
 // AWS S3 bucket Config
 const s3Bucket = new AWS.S3({
-    accessKeyId: "AKIA44RMDQFRY3G2JMZ4",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
     region: "ap-south-1"
 });
 
