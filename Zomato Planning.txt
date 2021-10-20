@@ -1,0 +1,45 @@
+Zomato Planning:
+
+Pages:
+
+-> Home
+-> Delivery Page
+-> Dining Out
+-> Night Life page
+
+Auth/Private Pages:
+
+->Profile(Settings, about us, etc)
+
+Tech Stack:
+-> MongoDB as a Database
+-> AWS S3 as a Block Storage
+-> Open Street map
+
+Database Planning:
+-> Users
+-> Orders
+-> Restaurants
+-> Reviews
+-> Foods
+-> Menus
+-> Images
+100 Restaurans -> 100 Menus -> 100 Food Items -> 100 Reviews
+
+
+Authentication / Authorization:
+->JWT (Jason Web Token)
+
+Deployment:
+-> Git Repo -> CI/CD -> AWS
+
+API Planning:
+-> Auth
+-> Foods
+-> Restaurants
+-> Order
+-> Payments (Razorpay)
+-> Reviews
+-> User
+-> Image
+
